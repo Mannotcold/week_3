@@ -1,0 +1,6 @@
+﻿  main.cpp
+  MyString.cpp
+D:\nam 2\New folder\MyString\MyString.cpp(8,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\nam 2\New folder\MyString\MyString.cpp(114,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  MyString.vcxproj -> D:\nam 2\New folder\x64\Debug\MyString.exe
